@@ -1,0 +1,11 @@
+C:\Files\VStudio\GeometryCalculator\GeometryCalculator\bin\Debug\net7.0\GeometryCalculator.deps.json
+C:\Files\VStudio\GeometryCalculator\GeometryCalculator\bin\Debug\net7.0\GeometryCalculator.dll
+C:\Files\VStudio\GeometryCalculator\GeometryCalculator\bin\Debug\net7.0\GeometryCalculator.pdb
+C:\Files\VStudio\GeometryCalculator\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Files\VStudio\GeometryCalculator\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.AssemblyInfoInputs.cache
+C:\Files\VStudio\GeometryCalculator\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.AssemblyInfo.cs
+C:\Files\VStudio\GeometryCalculator\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.csproj.CoreCompileInputs.cache
+C:\Files\VStudio\GeometryCalculator\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.dll
+C:\Files\VStudio\GeometryCalculator\GeometryCalculator\obj\Debug\net7.0\refint\GeometryCalculator.dll
+C:\Files\VStudio\GeometryCalculator\GeometryCalculator\obj\Debug\net7.0\GeometryCalculator.pdb
+C:\Files\VStudio\GeometryCalculator\GeometryCalculator\obj\Debug\net7.0\ref\GeometryCalculator.dll
